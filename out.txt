@@ -1,0 +1,7 @@
+Sterge tabelul numit Teacher
+Creeaza baza de date numita Aranea
+Sterge baza de date numita Aranea
+Selecteaza   toate coloanele  din tabelul numit Teacher  unde Id mai mare decat  5 ordonand dupa coloanele/coloana Id de la cel mai mare la cel mai mic
+Selecteaza  Name din tabelul numit Student  ordonand dupa coloanele/coloana Id de la cel mai mic la cel mai mare
+Selecteaza  Id din tabelul numit Teacher  unde Id mai mare decat  5 sau Name egal cu Mihai ordonand dupa coloanele/coloana Id de la cel mai mare la cel mai mic
+Selecteaza  coloanele Name,Id din tabelul numit Courses  unde Id mai mare decat  5 si Id mai mic decat  10 ordonand dupa coloanele/coloana Id de la cel mai mare la cel mai mic
